@@ -1,0 +1,12 @@
+{
+	"name": "abdul",
+	"email": "abc",
+	"phoneNo": 9042400230,
+	"courses": [
+		{
+			"c1": "c1",
+			"c2": "c2",
+			"c3": "c3"
+		}
+	]
+}

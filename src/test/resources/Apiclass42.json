@@ -1,0 +1,10 @@
+{
+	"name": "abdul",
+	"email": "abd@gmail.com",
+	"phoneNo": 9042400230,
+	"address": {
+		"streetName": "teacher colony",
+		"district": "vellore",
+		"state": "tn"
+	}
+}

@@ -1,0 +1,12 @@
+{
+"name":"abdul",
+"email":"abd@gmail.com",
+"phoneno":123456789,
+"payment":"true",
+"address":
+{
+"streetname":"custom colony",
+"apartment":"akshaya",
+"state":"tamilnadu"
+}
+}
